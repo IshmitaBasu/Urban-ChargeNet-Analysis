@@ -1,0 +1,148 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-11-18T19:33:32Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/194248709",
+      "properties": {
+        "@id": "way/194248709",
+        "building": "yes",
+        "name": "RDB Boulevard",
+        "shop": "mall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.433122,
+          22.5687343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/358886818",
+      "properties": {
+        "@id": "way/358886818",
+        "amenity": "parking",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4216452,
+          22.5762047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/514535237",
+      "properties": {
+        "@id": "way/514535237",
+        "amenity": "parking",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4333271,
+          22.5675722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10553919109",
+      "properties": {
+        "@id": "node/10553919109",
+        "addr:postcode": "700156",
+        "addr:street": "NH-34",
+        "amenity": "charging_station",
+        "name": "Electric Vehicle Charging Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4719544,
+          22.5942498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10553924809",
+      "properties": {
+        "@id": "node/10553924809",
+        "amenity": "charging_station",
+        "name": "Mahindra Charging Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4529998,
+          22.5785223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10553925409",
+      "properties": {
+        "@id": "node/10553925409",
+        "addr:postcode": "700156",
+        "addr:street": "action area 1",
+        "amenity": "charging_station",
+        "name": "EESL Charging Station",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4526568,
+          22.5785173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10553967709",
+      "properties": {
+        "@id": "node/10553967709",
+        "addr:postcode": "700059",
+        "addr:street": "Street Number 30",
+        "amenity": "charging_station",
+        "name": "Electric Vehicle Charging Station",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4481696,
+          22.5815869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12880786515",
+      "properties": {
+        "@id": "node/12880786515",
+        "access": "unknown",
+        "amenity": "charging_station",
+        "brand": "Jio BP Pulse",
+        "operator": "Jio BP Pulse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.472598,
+          22.5682609
+        ]
+      }
+    }
+  ]
+}
